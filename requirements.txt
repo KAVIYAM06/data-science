@@ -1,0 +1,6 @@
+fastapi
+selenium
+uvicorn
+python-dotenv
+fake_useragent
+undetected-chromedriver
